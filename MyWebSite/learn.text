@@ -1,0 +1,37 @@
+//data types and constant
+define for declare constant
+/////////////////
+the different between == and ===
+the first for value and the second for the type and value
+!== is not equal in the value and the type
+//////////////////////////////
+<> this mean not equal
+/////////////////////////
+for concatenation
+$y=$x."Eslam";
+//////////////////////
+the '' deal with char
+the "" deal with words
+//////////////////////////
+use global keyword to slove the problem of scoping 
+///////////////////////////////////
+static keyword to remeber the value of the variable within the function scope;
+//////////////////////////////////////////////////////////////
+//////////////////for array decleration//////////////////
+1-array[]=value
+2-array[0]=value;
+3-$array2 = array("","","","")
+/////////////////////////////////////////////
+/*Associative array*/
+$characher = array(
+	"name"=>"mohamed",
+	"Job"=>"engineeer",
+	"age"=>20,
+	"company"=>"hello egypt"
+	);
+	///////////////////////
+	array_push,array_pop,count(array),sizeof(array),array_unshift push at the first;//rest(array)  return the first element in the array
+	array_shift delete the first element from the array;
+///////////////////////////////////////For OOP In Php////////////////////////////////////////////////
+
+
